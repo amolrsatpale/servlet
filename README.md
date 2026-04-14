@@ -4,8 +4,8 @@
 
 | Field         | Details                          |
 |---------------|----------------------------------|
-| Name          | Amol                             |
-| USN           | [Your USN]                       |
+| Name          | Amol Satpale                     |
+| USN           | 2BL24CS402                       |
 | Branch        | Computer Science & Engineering   |
 | Semester      | VI Semester                      |
 | Subject       | Advanced Java Programming        |
